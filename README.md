@@ -4,9 +4,6 @@ wget -O start.sh https://raw.githubusercontent.com/fuyangcz/taiko/main/start.sh 
 查看节点日志
 wget -O check_service_status.sh https://raw.githubusercontent.com/fuyangcz/taiko/main/check_service_status.sh && chmod +x check_service_status.sh && ./check_service_status.sh
 
-设置快捷键的功能
-wget -O start.sh https://raw.githubusercontent.com/fuyangcz/taiko/main/start.sh && chmod +x start.sh && ./start.sh
-
 更改常规配置
 wget -O change_option.sh https://raw.githubusercontent.com/fuyangcz/taiko/main/change_option.sh && chmod +x change_option.sh && ./change_option.sh
 
