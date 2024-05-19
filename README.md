@@ -1,5 +1,5 @@
 安装节点
-
+wget -O start.sh https://raw.githubusercontent.com/fuyangcz/taiko/main/start.sh && chmod +x start.sh && ./start.sh
 查看节点日志
 设置快捷键的功能
 更改常规配置
