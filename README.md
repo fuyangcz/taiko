@@ -1,6 +1,8 @@
 安装节点
 wget -O start.sh https://raw.githubusercontent.com/fuyangcz/taiko/main/start.sh && chmod +x start.sh && ./start.sh
+
 查看节点日志
+wget -O check_service_status.sh https://raw.githubusercontent.com/fuyangcz/taiko/main/check_service_status.sh && chmod +x check_service_status.sh && ./check_service_status.sh
 设置快捷键的功能
 更改常规配置
 更换prover rpc
