@@ -21,3 +21,6 @@ wget -O update_beacon_bootnode.sh https://raw.githubusercontent.com/fuyangcz/tai
 
 更换L1 holesky rpc"
 wget -O change_L1RPC.sh https://raw.githubusercontent.com/fuyangcz/taiko/main/change_L1RPC.sh && chmod +x change_L1RPC.sh && ./change_L1RPC.sh
+
+重构节点
+wget -O rebuild.sh https://raw.githubusercontent.com/fuyangcz/taiko/main/rebuild.sh && chmod +x rebuild.sh && ./rebuild.sh
